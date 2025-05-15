@@ -47,7 +47,7 @@ This will open the graphical interface. All configuration (target selection, ope
 ---
 ## 🛠 Requirements
 
-- Python 3.3 or higher
+- Python 3.12 or higher
 - Required packages:
 
 ```bash
